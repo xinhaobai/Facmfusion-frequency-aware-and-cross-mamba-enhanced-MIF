@@ -1,3 +1,2 @@
 # Facmfusion-frequency-aware-and-cross-mamba-enhanced-MIF
-![image](![Uploading image.png…]()
-)
+![image](https://github.com/xinhaobai/Facmfusion-frequency-aware-and-cross-mamba-enhanced-MIF/blob/main/img/Fig%201.png)
